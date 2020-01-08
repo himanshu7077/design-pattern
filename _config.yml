@@ -28,7 +28,7 @@ linkedin_username: himanshu7077
 github_username:  himanshu7077
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 #plugins:
 # - jekyll-feed
 
